@@ -9,6 +9,9 @@ public class Main {
         System.out.println("please enter Passwort: ___________");
         System.out.println("please enter Passwort: ___________");
 
+        System.out.println("Blauer Planet"  );
+        System.out.println("Grüner Planet Planet"  );
+
         System.out.println("Hello world!");
 
 
